@@ -1,0 +1,1 @@
+path = jdbc:sqlite:src/main/resources/groceries
